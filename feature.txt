@@ -1,2 +1,2 @@
 feature-x first commit for remote
-Something new
+Something new for file via GitHub
